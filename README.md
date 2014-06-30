@@ -1,4 +1,0 @@
-plataforma
-==========
-
-plataforma de exercicios
